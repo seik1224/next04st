@@ -18,7 +18,7 @@
 
    5. 다음 버튼 클릭
    6. Connect to Cluster - Drivers 아래에 URL 기억 - Done
-      mongodb+srv://meerkatland1224:<db_password>@sbscluster.uer5t.mongodb.net/?retryWrites=true&w=majority&appName=SBSCluster
+
    7. 좌측 Cluseters 클릭
    8. Browse Collection 클릭
 
@@ -26,7 +26,7 @@
 
    1. 파일 생성
    2. URL 입력 (주의 : 패스워드 변경할 것!)
-      MONGODB_URL="mongodb+srv://meerkatland1224:qXMjMJzIYYOt2aTo@sbscluster.uer5t.mongodb.net/?retryWrites=true&w=majority&appName=SBSCluster"
+      MONGODB_URL="mongodb+srv://................."
    3. 데이터베이스 이름 입력
       MONGODB_DATABASE="SBS" (아무거나)
 
